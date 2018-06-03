@@ -1,13 +1,17 @@
  BioJotter : A biological notepad
  ============
 
+# Abstract
+
 Biological sequence manipulation using Bioinformatics techniques and tools became a cumbersome task in front of the biological community .The Lack of availability of many important sequence manipulation features on a common platform resulting in the slow analysis of the sequences. BioJotter has been developed to tackle these problems, by an easy to use interface that can handle many tasks of molecular biology in an efficient manner.
 
 BioJotter is a small but intelligent notepad for biological sequence analysis which makes sequence handling an enjoyable and easy task for Bioinformatics and Life Scientists. BioJotter will be a free source code editor and Notepad replacement, which supports several biological programming languages, running under the MS Windows and Linux environment. I hope you enjoy BioJotter as much as we enjoy biological coding and sequence handling.
 
 Download BioJotter :
 
-You can find BioJotter from the following [link](ttp://bioinformaticsonline.com/mod/Download/Biojotter.rar)
+You can find BioJotter from the following [link](http://bioinformaticsonline.com/mod/Download/Biojotter.rar)
+
+![alt text](http://bioinformaticsonline.com/mod/photo/biojotter.png)
 
 Pleaese let me know if any problem related with biological computing.
 
