@@ -1,0 +1,12 @@
+#line 1 "auto/Tk/Widget/autosplit.ix"
+# Index created by AutoSplit for blib\lib\Tk\Widget.pm
+#    (file acts as timestamp)
+package Tk::Widget;
+sub bindDump  ;
+sub ASkludge 
+;
+sub clipboardKeysyms 
+;
+sub pathname 
+;
+1;

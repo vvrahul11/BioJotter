@@ -1,0 +1,1 @@
+#line 1 "auto/Storable/Storable.bs"

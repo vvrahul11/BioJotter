@@ -1,0 +1,13 @@
+#line 1 "auto/POSIX/malloc.al"
+# NOTE: Derived from ..\..\lib\POSIX.pm.
+# Changes made here will be lost when autosplit is run again.
+# See AutoSplit.pm.
+package POSIX;
+
+#line 453 "..\..\lib\POSIX.pm (autosplit into ..\..\lib\auto\POSIX\malloc.al)"
+sub malloc {
+    unimpl "malloc() is C-specific, stopped";
+}
+
+# end of POSIX::malloc
+1;

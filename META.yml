@@ -1,0 +1,12 @@
+build_requires: {}
+conflicts: {}
+dist_name: BioJotter.exe
+distribution_type: par
+dynamic_config: 0
+generated_by: 'PAR::Packer version 0.976
+license: unknown
+par:
+  clean: 0
+  signature: ''
+  verbatim: 0
+  version: 0.991

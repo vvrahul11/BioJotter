@@ -1,0 +1,1 @@
+#line 1 "auto/POSIX/POSIX.bs"
