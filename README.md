@@ -9,7 +9,7 @@ BioJotter is a small but intelligent notepad for biological sequence analysis wh
 
 Download BioJotter :
 
-You can find BioJotter from the following [link](http://bioinformaticsonline.com/mod/Download/Biojotter.rar)
+You can find BioJotter executable file from the following [link](http://bioinformaticsonline.com/mod/Download/Biojotter.rar)
 
 ![alt text](http://bioinformaticsonline.com/mod/photo/biojotter.png)
 
