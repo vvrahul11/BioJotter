@@ -22,14 +22,10 @@ The BioJotter provides several features that makes the sequence manipulation an 
 
 BioJotter can handle big FASTA files very efficiently .It has been tested on all the different versions of Microsoft operating system and found to be effective. BioJotter also allows the user to do BLAST and Genscan directly; the user can give multiple FASTA files in case of BLAST and whole genome of an organism in case of Genscan. The BioJotter will take the input sequence to the respective servers and the result will be created on a separate notepad that the user can specify. This biological notepad has features to analyse the composition and can draw graphs based on that your sequences. BioJotter can also identify ORF regions and can be translated.
 
-Future:
-
-A Number of development plans are already designed which will be available to the user from the next version of BioJotter.The future development plans are as follows:- Multiple Sequence Alignments, Phylogenetic Tree Construction, PDB file handling, Comparative Genomics section, Sequence Library Functions.
-
-Publication:
+# Publication:
 Rahul V.V., Neetu Jabalia, Ashish Gupta, Jitendra Narayan. BioJotter: A Biological Notepad, Journal of Computational Intelligence in Bioinformatics, Volume 4, 1(2011) pp. 135-138.
 
-Team:
+# Team:
 
 Group Members: Rahul V V, Ashish Gupta, Neetu Jabalia, Jitendra Narayan
 
